@@ -1,0 +1,12 @@
+IMMUNITY GAME
+
+Playing CharacterAnimation
+ground Image
+food Images 
+Obstacles 
+
+Goal:
+1.Collect good food
+2.Increase Immunity 
+3.bad food decrease Immunity life.
+4.be safe from Obstacles.
